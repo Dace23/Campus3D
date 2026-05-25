@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "A3",
+    "name": "A3",
+    "type": "Room",
+    "floor": "Level 3",
+    "tags": [
+      "International Institute for Telecommunications Management - iimt",
+      "Institute for Association and Cooperative Management -VIMI"
+    ],
+    "objectName": "A3",
+    "sector": "A"
+  },
+  {
+    "id": "A4",
+    "name": "A4",
+    "type": "Room",
+    "floor": "Level 4",
+    "tags": [
+      "Department of Computer Science"
+    ],
+    "objectName": "A4",
+    "sector": "A"
+  },
+  {
+    "id": "B3",
+    "name": "B3",
+    "type": "Room",
+    "floor": "Level 3",
+    "tags": [
+      "International Institute for Telecommunications Management - iimt",
+      "Institute for Association and Cooperative Management -VIMI"
+    ],
+    "objectName": "B3",
+    "sector": "B"
+  },
+  {
+    "id": "B4",
+    "name": "B4",
+    "type": "Room",
+    "floor": "Level 4",
+    "tags": [
+      "Department of Computer Science"
+    ],
+    "objectName": "B4",
+    "sector": "B"
+  },
+  {
+    "id": "Hall (1A-G)",
+    "name": "Hall",
+    "type": "Circulation & Access",
+    "floor": "Level 1",
+    "tags": [
+      "Hall"
+    ],
+    "objectName": "Hall (1A-G)",
+    "sector": "A"
+  },
+  {
+    "id": "Hall (2A-G)",
+    "name": "Hall",
+    "type": "Circulation & Access",
+    "floor": "Level 2",
+    "tags": [
+      "Hall"
+    ],
+    "objectName": "Hall (2A-G)",
+    "sector": "A-G"
+  },
+  {
+    "id": "Hall (1A)",
+    "name": "Hall",
+    "type": "Circulation & Access",
+    "floor": "Level 1",
+    "tags": [
+      "Hall"
+    ],
+    "objectName": "Hall (1A)",
+    "sector": "A"
+  },
+  {
+    "id": "Hall and offices (3)",
+    "name": "Offices 3",
+    "type": "Room",
+    "floor": "Level 3",
+    "tags": [
+      "International Institute for Telecommunications Management - iimt",
+      "Institute for Association and Cooperative Management -VIMI"
+    ],
+    "objectName": "Hall and offices (3)",
+    "sector": "A-G"
+  },
+  {
+    "id": "Hall and offices (4)",
+    "name": "Offices 4",
+    "type": "Room",
+    "floor": "Level 4",
+    "tags": [
+      "Department of Computer Science"
+    ],
+    "objectName": "Hall and offices (4)",
+    "sector": "A-G"
+  },
+  {
+    "id": "Hall and offices (5)",
+    "name": "Floor 5",
+    "type": "Room",
+    "floor": "Level 5",
+    "tags": [
+      "IT Services Department"
+    ],
+    "objectName": "Hall and offices (5)",
+    "sector": "A-G"
+  },
+  {
+    "id": "Main hall",
+    "name": "Main hall",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Hall"
+    ],
+    "objectName": "Main Hall",
+    "sector": "A-G"
+  },
+  {
+    "id": "C3",
+    "name": "C3",
+    "type": "Room",
+    "floor": "Level 3",
+    "tags": [
+      "International Institute for Telecommunications Management - iimt",
+      "Institute for Association and Cooperative Management -VIMI"
+    ],
+    "objectName": "C3",
+    "sector": "C"
+  },
+  {
+    "id": "C4",
+    "name": "C4",
+    "type": "Room",
+    "floor": "Level 4",
+    "tags": [
+      "Department of Computer Science"
+    ],
+    "objectName": "C4",
+    "sector": "C"
+  },
+  {
+    "id": "D3",
+    "name": "D3",
+    "type": "Room",
+    "floor": "Level 3",
+    "tags": [
+      "International Institute for Telecommunications Management - iimt",
+      "Institute for Association and Cooperative Management -VIMI"
+    ],
+    "objectName": "D3",
+    "sector": "D"
+  },
+  {
+    "id": "D4",
+    "name": "D4",
+    "type": "Room",
+    "floor": "Level 4",
+    "tags": [
+      "Department of Computer Science"
+    ],
+    "objectName": "D4",
+    "sector": "D"
+  },
+  {
+    "id": "E3",
+    "name": "E3",
+    "type": "Room",
+    "floor": "Level 3",
+    "tags": [
+      "International Institute for Telecommunications Management - iimt",
+      "Institute for Association and Cooperative Management -VIMI"
+    ],
+    "objectName": "E3",
+    "sector": "E"
+  },
+  {
+    "id": "E4",
+    "name": "E4",
+    "type": "Room",
+    "floor": "Level 4",
+    "tags": [
+      "Department of Computer Science"
+    ],
+    "objectName": "E4",
+    "sector": "E"
+  },
+  {
+    "id": "F3",
+    "name": "F3",
+    "type": "Room",
+    "floor": "Level 3",
+    "tags": [
+      "International Institute for Telecommunications Management - iimt",
+      "Institute for Association and Cooperative Management -VIMI"
+    ],
+    "objectName": "F3",
+    "sector": "F"
+  },
+  {
+    "id": "F4",
+    "name": "F4",
+    "type": "Room",
+    "floor": "Level 4",
+    "tags": [
+      "Department of Computer Science"
+    ],
+    "objectName": "F4",
+    "sector": "F"
+  },
+  {
+    "id": "G3",
+    "name": "G3",
+    "type": "Room",
+    "floor": "Level 3",
+    "tags": [
+      "International Institute for Telecommunications Management - iimt",
+      "Institute for Association and Cooperative Management -VIMI"
+    ],
+    "objectName": "G3",
+    "sector": "G"
+  },
+  {
+    "id": "G4",
+    "name": "G4",
+    "type": "Room",
+    "floor": "Level 4",
+    "tags": [
+      "Department of Computer Science"
+    ],
+    "objectName": "G4",
+    "sector": "G"
+  },
+  {
+    "id": "Hall (1G)",
+    "name": "Hall",
+    "type": "Circulation & Access",
+    "floor": "Level 1",
+    "tags": [
+      "Hall"
+    ],
+    "objectName": "Hall (1G)",
+    "sector": "G"
+  },
+  {
+    "id": "Front hall (0)",
+    "name": "Front hall",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Hall",
+      "Dining Table"
+    ],
+    "objectName": "Front hall (0)",
+    "sector": "A-G"
+  },
+  {
+    "id": "A230",
+    "name": "A230",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "A230",
+    "sector": "A",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/4710"
+  },
+  {
+    "id": "B130",
+    "name": "B130",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "B130",
+    "sector": "B",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/364"
+  },
+  {
+    "id": "B230",
+    "name": "B230",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room",
+      "Computer"
+    ],
+    "objectName": "B230",
+    "sector": "B",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/366"
+  },
+  {
+    "id": "C130",
+    "name": "C130",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "C130",
+    "sector": "C",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/4712"
+  },
+  {
+    "id": "C230",
+    "name": "C230",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "C230",
+    "sector": "C",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/2248"
+  },
+  {
+    "id": "D130",
+    "name": "D130",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "D130",
+    "sector": "D",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/1620"
+  },
+  {
+    "id": "D230",
+    "name": "D230",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "D230",
+    "sector": "D",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/4711"
+  },
+  {
+    "id": "E130",
+    "name": "E130",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "E130",
+    "sector": "E",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/365"
+  },
+  {
+    "id": "E230",
+    "name": "E230",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "E230",
+    "sector": "E",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/3467"
+  },
+  {
+    "id": "F130",
+    "name": "F130",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "F130",
+    "sector": "F",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/3468"
+  },
+  {
+    "id": "F230",
+    "name": "F230",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room",
+      "Computer"
+    ],
+    "objectName": "F230",
+    "sector": "F",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/3469"
+  },
+  {
+    "id": "G230",
+    "name": "G230",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "G230",
+    "sector": "G",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/1619"
+  },
+  {
+    "id": "B205",
+    "name": "B 205",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "B205",
+    "sector": "B"
+  },
+  {
+    "id": "B207",
+    "name": "B 207",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "B207",
+    "sector": "B",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/3470"
+  },
+  {
+    "id": "F205",
+    "name": "F 205",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "F205",
+    "sector": "F",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/2852"
+  },
+  {
+    "id": "F207",
+    "name": "F 207",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Class room"
+    ],
+    "objectName": "F207",
+    "sector": "F",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/1002"
+  },
+  {
+    "id": "A120",
+    "name": "A120",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Auditorium"
+    ],
+    "objectName": "A120",
+    "sector": "A",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/4709"
+  },
+  {
+    "id": "A140",
+    "name": "A140",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Auditorium"
+    ],
+    "objectName": "A140",
+    "sector": "A",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/1616"
+  },
+  {
+    "id": "C120",
+    "name": "C120",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Auditorium"
+    ],
+    "objectName": "C120",
+    "sector": "C",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/363"
+  },
+  {
+    "id": "C140",
+    "name": "C140",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Auditorium"
+    ],
+    "objectName": "C140",
+    "sector": "C",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/1617"
+  },
+  {
+    "id": "E120",
+    "name": "E120",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Auditorium"
+    ],
+    "objectName": "E120",
+    "sector": "E",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/3465"
+  },
+  {
+    "id": "E140",
+    "name": "E140",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Auditorium"
+    ],
+    "objectName": "E140",
+    "sector": "E",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/3466"
+  },
+  {
+    "id": "G120",
+    "name": "G120",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Auditorium"
+    ],
+    "objectName": "G120",
+    "sector": "G",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/1618"
+  },
+  {
+    "id": "G140",
+    "name": "G140",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Auditorium"
+    ],
+    "objectName": "G140",
+    "sector": "G",
+    "planningUrl": "https://admin.unifr.ch/loc/#!local/4076"
+  },
+  {
+    "id": "Main entrance",
+    "name": "Main entrance",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Entrance"
+    ],
+    "objectName": "Main entrance",
+    "sector": "B"
+  },
+  {
+    "id": "Front entrance (C)",
+    "name": "Front entrance",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Entrance"
+    ],
+    "objectName": "Front entrance (C)",
+    "sector": "C"
+  },
+  {
+    "id": "Front entrance (A)",
+    "name": "Front entrance",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Entrance"
+    ],
+    "objectName": "Front entrance (A)",
+    "sector": "A"
+  },
+  {
+    "id": "Front entrance (G)",
+    "name": "Front entrance",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Entrance"
+    ],
+    "objectName": "Front entrance (G)",
+    "sector": "G"
+  },
+  {
+    "id": "Front entrance (E)",
+    "name": "Front entrance",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Entrance"
+    ],
+    "objectName": "Front entrance (E)",
+    "sector": "E"
+  },
+  {
+    "id": "Back entrance (C)",
+    "name": "Back entrance",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Entrance"
+    ],
+    "objectName": "Back entrance (C)",
+    "sector": "C"
+  },
+  {
+    "id": "Back entrance (A)",
+    "name": "Back entrance",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Entrance"
+    ],
+    "objectName": "Back entrance (A)",
+    "sector": "A"
+  },
+  {
+    "id": "Back entrance (G)",
+    "name": "Back entrance",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Entrance"
+    ],
+    "objectName": "Back entrance (G)",
+    "sector": "G"
+  },
+  {
+    "id": "Back entrance (E)",
+    "name": "Back entrance",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Entrance"
+    ],
+    "objectName": "Back entrance (E)",
+    "sector": "E"
+  },
+  {
+    "id": "Group work room (1E)",
+    "name": "Group work room",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Can talk",
+      "Study room",
+      "Quiet"
+    ],
+    "objectName": "Group work room (1E)",
+    "sector": "E"
+  },
+  {
+    "id": "Group work room (1F)",
+    "name": "Group work room",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Can talk",
+      "Study room",
+      "Quiet"
+    ],
+    "objectName": "Group work room (1F)",
+    "sector": "F"
+  },
+  {
+    "id": "Group work room (2C)",
+    "name": "Group work room",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Can talk",
+      "Study room",
+      "Quiet"
+    ],
+    "objectName": "Group work room (2C)",
+    "sector": "C"
+  },
+  {
+    "id": "Group work room (2E)",
+    "name": "Group work room",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Can talk",
+      "Study room",
+      "Quiet"
+    ],
+    "objectName": "Group work room (2E)",
+    "sector": "E"
+  },
+  {
+    "id": "Stairs (A)",
+    "name": "Stairs",
+    "type": "Circulation & Access",
+    "floor": "All levels",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Stairs (A)",
+    "sector": "A"
+  },
+  {
+    "id": "Stairs (C)",
+    "name": "Stairs",
+    "type": "Circulation & Access",
+    "floor": "All levels",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Stairs (C)",
+    "sector": "C"
+  },
+  {
+    "id": "Stairs (E)",
+    "name": "Stairs",
+    "type": "Circulation & Access",
+    "floor": "All levels",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Stairs (E)",
+    "sector": "E"
+  },
+  {
+    "id": "Stairs (G)",
+    "name": "Stairs",
+    "type": "Circulation & Access",
+    "floor": "All levels",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Stairs (G)",
+    "sector": "G"
+  },
+  {
+    "id": "Main stairs (A1-A2)",
+    "name": "Main stairs",
+    "type": "Circulation & Access",
+    "floor": "Level 1",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Main stairs (A1-A2)",
+    "sector": "A"
+  },
+  {
+    "id": "Main stairs (B0-A1)",
+    "name": "Main stairs",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Main stairs (B0-A1)",
+    "sector": "B"
+  },
+  {
+    "id": "Main stairs (B0-C1)",
+    "name": "Main stairs",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Main stairs (B0-C1)",
+    "sector": "B"
+  },
+  {
+    "id": "Main stairs (C1-D1)",
+    "name": "Main stairs",
+    "type": "Circulation & Access",
+    "floor": "Level 1",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Main stairs (C1-D1)",
+    "sector": "C"
+  },
+  {
+    "id": "Main stairs (D0-E1)",
+    "name": "Main stairs",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Main stairs (D0-E1)",
+    "sector": "D"
+  },
+  {
+    "id": "Main stairs (D1-F2)",
+    "name": "Main stairs",
+    "type": "Circulation & Access",
+    "floor": "Level 1",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Main stairs (D1-F2)",
+    "sector": "D"
+  },
+  {
+    "id": "Main stairs (F0-G1)",
+    "name": "Main stairs",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Main stairs (F0-G1)",
+    "sector": "F"
+  },
+  {
+    "id": "Main stairs (G1-G2)",
+    "name": "Main stairs",
+    "type": "Circulation & Access",
+    "floor": "Level 1",
+    "tags": [
+      "Stairs"
+    ],
+    "objectName": "Main stairs (G1-G2)",
+    "sector": "G"
+  },
+  {
+    "id": "Elevator (A)",
+    "name": "Elevator",
+    "type": "Circulation & Access",
+    "floor": "All levels",
+    "tags": [
+      "Elevator"
+    ],
+    "objectName": "Elevator (A)",
+    "sector": "A"
+  },
+  {
+    "id": "Elevator (C)",
+    "name": "Elevator",
+    "type": "Circulation & Access",
+    "floor": "All levels",
+    "tags": [
+      "Elevator"
+    ],
+    "objectName": "Elevator (C)",
+    "sector": "C"
+  },
+  {
+    "id": "Elevator (E)",
+    "name": "Elevator",
+    "type": "Circulation & Access",
+    "floor": "All levels",
+    "tags": [
+      "Elevator"
+    ],
+    "objectName": "Elevator (E)",
+    "sector": "E"
+  },
+  {
+    "id": "Elevator (G)",
+    "name": "Elevator",
+    "type": "Circulation & Access",
+    "floor": "All levels",
+    "tags": [
+      "Elevator"
+    ],
+    "objectName": "Elevator (G)",
+    "sector": "G"
+  },
+  {
+    "id": "Printer (0A)",
+    "name": "Printer",
+    "type": "Available equipment",
+    "floor": "Level 0",
+    "tags": [
+      "Printer"
+    ],
+    "objectName": "Printer (0A)",
+    "sector": "A"
+  },
+  {
+    "id": "Printer(0C)",
+    "name": "Printer",
+    "type": "Available equipment",
+    "floor": "Level 0",
+    "tags": [
+      "Printer"
+    ],
+    "objectName": "Printer(0C)",
+    "sector": "C"
+  },
+  {
+    "id": "Printer(0E)",
+    "name": "Printer",
+    "type": "Available equipment",
+    "floor": "Level 0",
+    "tags": [
+      "Printer"
+    ],
+    "objectName": "Printer(0E)",
+    "sector": "E"
+  },
+  {
+    "id": "Printer(0G)",
+    "name": "Printer",
+    "type": "Available equipment",
+    "floor": "Level 0",
+    "tags": [
+      "Printer"
+    ],
+    "objectName": "Printer(0G)",
+    "sector": "G"
+  },
+  {
+    "id": "LearningLab",
+    "name": "Learning Lab",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Computer",
+      "Can talk",
+      "Study room"
+    ],
+    "objectName": "LearningLab",
+    "sector": "A"
+  },
+  {
+    "id": "A040",
+    "name": "A040",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "IT Services Department",
+      "Support Center",
+      "Micromus"
+    ],
+    "objectName": "A040",
+    "sector": "A"
+  },
+  {
+    "id": "G020",
+    "name": "G020",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "University Sports Service"
+    ],
+    "objectName": "G020",
+    "sector": "G"
+  },
+  {
+    "id": "B020",
+    "name": "B020",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Concierge office"
+    ],
+    "objectName": "B020",
+    "sector": "B"
+  },
+  {
+    "id": "C021",
+    "name": "C021",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Infirmary",
+      "Lactation room"
+    ],
+    "objectName": "C021",
+    "sector": "C"
+  },
+  {
+    "id": "C043",
+    "name": "C043",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Archives"
+    ],
+    "objectName": "C043",
+    "sector": "C"
+  },
+  {
+    "id": "Cafeteria",
+    "name": "D001",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Cafeteria",
+      "Dining Table"
+    ],
+    "objectName": "Cafeteria",
+    "sector": "D"
+  },
+  {
+    "id": "D020",
+    "name": "D020",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Dean’s Office – Management, Economics and Social Sciences"
+    ],
+    "objectName": "D020",
+    "sector": "D"
+  },
+  {
+    "id": "E020",
+    "name": "E020",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Meeting room"
+    ],
+    "objectName": "E020",
+    "sector": "E"
+  },
+  {
+    "id": "E040",
+    "name": "E040",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Faculty room"
+    ],
+    "objectName": "E040",
+    "sector": "E"
+  },
+  {
+    "id": "F020",
+    "name": "F020",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "AGEF Office"
+    ],
+    "objectName": "F020",
+    "sector": "F"
+  },
+  {
+    "id": "E023",
+    "name": "E023",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Meeting room"
+    ],
+    "objectName": "E023",
+    "sector": "E"
+  },
+  {
+    "id": "Student card terminal",
+    "name": "Student card terminal",
+    "type": "Available equipment",
+    "floor": "Level 0",
+    "tags": ["Student card terminal"],
+    "objectName": "Student card terminal",
+    "sector": "B"
+  },
+  {
+    "id": "Microwaves (1)",
+    "name": "Microwaves",
+    "type": "Available equipment",
+    "floor": "Level 0",
+    "tags": ["Microwaves"],
+    "objectName": "Microwaves (1)",
+    "sector": "F"
+  },
+  {
+    "id": "Microwaves (2)",
+    "name": "Microwaves",
+    "type": "Available equipment",
+    "floor": "Level 2",
+    "tags": ["Microwaves"],
+    "objectName": "Microwaves (2)",
+    "sector": "G"
+  },
+  {
+    "id": "Men's toilet (0A)",
+    "name": "Men's toilet",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Men",
+      "Toilets"
+    ],
+    "objectName": "Men's toilet (0A)",
+    "sector": "A"
+  },
+  {
+    "id": "Men's toilet (0C)",
+    "name": "Men's toilet",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Men",
+      "Toilets"
+    ],
+    "objectName": "Men's toilet (0C)",
+    "sector": "C"
+  },
+  {
+    "id": "Men's toilet (0E)",
+    "name": "Men's toilet",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Men",
+      "Toilets"
+    ],
+    "objectName": "Men's toilet (0E)",
+    "sector": "E"
+  },
+  {
+    "id": "Men's toilet (1B)",
+    "name": "Men's toilet",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Men",
+      "Toilets"
+    ],
+    "objectName": "Men's toilet (1B)",
+    "sector": "B"
+  },
+  {
+    "id": "Men's toilet (1F)",
+    "name": "Men's toilet",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Men",
+      "Toilets"
+    ],
+    "objectName": "Men's toilet (1F)",
+    "sector": "F"
+  },
+  {
+    "id": "Men's toilet (2B)",
+    "name": "Men's toilet",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Men",
+      "Toilets"
+    ],
+    "objectName": "Men's toilet (2B)",
+    "sector": "B"
+  },
+  {
+    "id": "Men's toilet (2F)",
+    "name": "Men's toilet",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Men",
+      "Toilets"
+    ],
+    "objectName": "Men's toilet (2F)",
+    "sector": "F"
+  },
+  {
+    "id": "Women's toilet (0A)",
+    "name": "Women's toilet",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Women",
+      "Toilets"
+    ],
+    "objectName": "Women's toilet (0A)",
+    "sector": "A"
+  },
+  {
+    "id": "Women's toilet (0C)",
+    "name": "Women's toilet",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Women",
+      "Toilets"
+    ],
+    "objectName": "Women's toilet (0C)",
+    "sector": "C"
+  },
+  {
+    "id": "Women's toilet (0F)",
+    "name": "Women's toilet",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Women",
+      "Toilets"
+    ],
+    "objectName": "Women's toilet (0F)",
+    "sector": "F"
+  },
+  {
+    "id": "Women's toilet (2F)",
+    "name": "Women's toilet",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Women",
+      "Toilets"
+    ],
+    "objectName": "Women's toilet (2F)",
+    "sector": "F"
+  },
+  {
+    "id": "Women's toilet (1B)",
+    "name": "Women's toilet",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Women",
+      "Toilets"
+    ],
+    "objectName": "Women's toilet (1B)",
+    "sector": "B"
+  },
+  {
+    "id": "Women's toilet (2B)",
+    "name": "Women's toilet",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Women",
+      "Toilets"
+    ],
+    "objectName": "Women's toilet (2B)",
+    "sector": "B"
+  },
+  {
+    "id": "Disabled men's toilet (0G)",
+    "name": "Disabled men's toilet",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Men",
+      "Disabled"
+    ],
+    "objectName": "Disabled men's toilet (0G)",
+    "sector": "G"
+  },
+  {
+    "id": "Disabled toilet (2D)",
+    "name": "Disabled toilet",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Disabled"
+    ],
+    "objectName": "Disabled toilet (2D)",
+    "sector": "D"
+  },
+  {
+    "id": "Disabled toilet (1D)",
+    "name": "Disabled toilet",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Disabled"
+    ],
+    "objectName": "Disabled toilet (1D)",
+    "sector": "D"
+  },
+  {
+    "id": "Disabled women's toilet (0G)",
+    "name": "Disabled women's toilet",
+    "type": "Room",
+    "floor": "Level 0",
+    "tags": [
+      "Women",
+      "Disabled"
+    ],
+    "objectName": "Disabled women's toilet (0G)",
+    "sector": "G"
+  },
+  {
+    "id": "Back space",
+    "name": "Back space",
+    "type": "Circulation & Access",
+    "floor": "Level 0",
+    "tags": [
+      "Hall"
+    ],
+    "objectName": "Back space",
+    "sector": "A-G"
+  },
+  {
+    "id": "Study room (1)",
+    "name": "Study room",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Quiet",
+      "Study room"
+    ],
+    "objectName": "Study room (1)",
+    "sector": "A-G"
+  },
+  {
+    "id": "Study room (2)",
+    "name": "Study room",
+    "type": "Room",
+    "floor": "Level 2",
+    "tags": [
+      "Quiet",
+      "Study room"
+    ],
+    "objectName": "Study room (2)",
+    "sector": "A-G"
+  },
+  {
+    "id": "Study room (computer)",
+    "name": "Study room",
+    "type": "Room",
+    "floor": "Level 1",
+    "tags": [
+      "Quiet",
+      "Computer",
+      "Study room"
+    ],
+    "objectName": "Study room (computer)",
+    "sector": "A"
+  }
+]
